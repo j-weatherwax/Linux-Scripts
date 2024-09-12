@@ -1,0 +1,42 @@
+sudo/Allows for execution of admin commands
+ls/Lists directories
+pwd/Print working directory
+cd/Navigate to directory
+mkdir/Creates a new directory
+mv/Move or rename file
+cp/Copy file
+rm/Delete file or directory
+touch/Create new empty file
+clear/Clear terminal display
+cat/Display file contents
+echo/Prints text
+whoami/Get active username
+tar/Extracts and compresses files
+grep/Search for a string within output
+sed/Seach and replace pattens in files
+awk/Search and manipulate regex
+sort/Rearrange file contents in a specific order
+head/Return specified number of lines from the top
+tail/Return specified number of lines from the bottom
+cut/Displays specific sections of a file
+tee/Sends output to both terminal and a file
+find/Search for file in a specific directory
+diff/Find difference between two files
+cmp/Checks if two files are identical
+ps/Display running processes
+top/Display running processes and real-time info on hardware consumption
+df/Check disk usage
+du/Check size of directory and content
+chmod/Change file permissions
+chown/Changes ownership of files or directories
+wget/Direct downloads
+curl/Data transfer via URL
+su/Switch user
+time/Measures execution time of script
+watch/Run script or command at specific intervals
+shutdown/Turn off or restart machine at a specific time
+ping/Send packet to a server and measure response
+scp/Securely copy files or directories between systems over a network
+history/Displays a list of previously run commands
+mktemp/Creates a temporary file
+wc/Returns number of lines, words, or characters in a file depending on the flag (-l, -w, -m)
